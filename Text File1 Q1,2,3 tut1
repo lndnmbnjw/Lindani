@@ -1,0 +1,6 @@
+1. To list all files in a directory with the most recent one displayed last us the command: "ls"
+
+2. To display the first 25 lines of a file (say, a file named "/etc/group") use the command: "sed -n 1,25p /etc/group"
+
+3. To obtain a comprehensive list of flags for any Linux command we use the man (manual command): "man ls"
+
